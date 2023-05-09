@@ -1,0 +1,23 @@
+h1 {
+  border-bottom-style: inset;
+}
+
+figure {
+  display: inline-block;
+  font-size: 0.7em;
+  margin: 5px;
+}
+
+.entre-letras {
+  letter-spacing: 0.5em;
+}
+
+.exclui {
+  color: red;
+  cursor: pointer;
+}
+
+.corFundo {
+  background-color: rgb(195, 202, 205);
+  border-radius: 5px;
+}
